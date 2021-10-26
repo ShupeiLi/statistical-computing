@@ -19,3 +19,5 @@ Martin A. Tanner, *Tools for Statistical Inference: Methods for the Exploration 
 |Chapter 3|Local Search, Simulated Annealing, Generic Algorithms, Tabu Algorithm|3.1 b, 3.2, 3.3 b, 3.4 b & c, 3.5|
 
 ( Updating . . . )
+
+## Gallery
