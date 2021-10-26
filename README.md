@@ -21,3 +21,9 @@ Martin A. Tanner, *Tools for Statistical Inference: Methods for the Exploration 
 ( Updating . . . )
 
 ## Gallery
+<p float="left" align="center">
+  <img src="/Chapter2/gallery/2_1_pic02.png" height="200" />
+  <img src="/Chapter2/gallery/2_5_pic5.png" height="200" />
+  <img src="/Chapter3/gallery/3.3_b_pic1.png" height="200" />
+  <img src="/Chapter3/gallery/3.4_b_pic2.png" height="200" />
+</p>
