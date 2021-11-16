@@ -17,6 +17,7 @@ Martin A. Tanner, *Tools for Statistical Inference: Methods for the Exploration 
 |:---:|:---:|:---:|
 |Chapter 2|Bisection Method, Newton’s Method, Fisher Scoring, Secant Method, Fixed-Point Iteration, Ascent Algorithm, Backtracking, Quasi-Newton Methods, Gauss-Newton Method, Nelder-Mead Algorithm, Nonlinear Gauss–Seidel Iteration|2.1, 2.3, 2.5, 2.6|
 |Chapter 3|Local Search, Simulated Annealing, Generic Algorithms, Tabu Algorithm|3.1 b, 3.2, 3.3 b, 3.4 b & c, 3.5|
+|Chapter 4|EM Algorithm, Monte Carlo EM, ECM, EM Gradient, Aitken Acceleration|4.1, 4.2, 4.4|
 
 ( Updating . . . )
 
