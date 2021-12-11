@@ -10,10 +10,11 @@ class Tangent():
     Tangent-based envelope. 
     
     Args:
-        n: number of nodes
+        n: number of nodes. \n
+        specify / specify_array: Enter specific initial placement of nodes.
     """
     
-    def __init__(self, n):
+    def __init__(self, n, specify = True, specify_array = []):
         self.n = 2 * n
         self.c = norm.ppf(1 - 10 ** (-5))
         self.fc = -norm.logpdf(self.c, 0, 1)
@@ -22,7 +23,10 @@ class Tangent():
             c_lst.append(self.draw())
         c_lst = np.array(c_lst)
         self.c_lst = c_lst
+        if specify:
+            self.c_lst = specify_array
         self.T_k = np.sort(np.concatenate([-c_lst[::-1], c_lst]))
+            
     
     def draw(self):
         trial_u = np.random.uniform(0, 1, 1)[0]
