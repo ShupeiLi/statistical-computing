@@ -11,9 +11,9 @@ class Failure():
     Failures of bootstrap.
     
     Args:
-        n: The number of samples. Default: 50.
-        B: Bootstrap times. Default: 10000.
-        seed: Set random_state. Default: 1234.
+        n: The number of samples. Default: 50. \n
+        B: Bootstrap times. Default: 10000. \n
+        seed: Set random_state. Default: 1234. \n
         distribution: "cauchy" or "uniform". Default: "cauchy".
     """
     
