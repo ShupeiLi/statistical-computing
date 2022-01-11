@@ -20,7 +20,7 @@ Martin A. Tanner, *Tools for Statistical Inference: Methods for the Exploration 
 |Chapter 4|EM Algorithm, Monte Carlo EM, ECM, EM Gradient, Aitken Acceleration|4.1, 4.2, 4.4|
 |Chapter 5|Newton-Cotes Quadrature (Riemann Rule, Trapezoidal Rule, Simpson’s Rule), Gaussian Quadrature|5.1, 5.2, 5.3|
 |Chapter 6|Monte Carlo Integration, Inverse CDF Sampling, Rejection Sampling, Squeezed Rejection Sampling, Adaptive Rejection Sampling, Sampling Importance Resampling, Sequential Monte Carlo, Antithetic Sampling, Rao-Blackwellization|6.1, 6.2, 6.5, 6.9|
-|Chapter 9|Nonparametric Bootstrap, Parametric Bootstrap, Bootstrapping Regression, Bootstrap Bias Correction, Conﬁdence Interval via Pivot, Percentile Method for Location Parameter, Empirical Variance Stabilization, Hypothesis Testing via Bootstrap, Reducing Monte Carlo Error, Bootstrap Dependent Data, Determining the Block Size|9.4, 9.6, 9.7|
+|Chapter 9|Nonparametric Bootstrap, Parametric Bootstrap, Bootstrapping Regression, Empirical Variance Stabilization, Hypothesis Testing via Bootstrap, Bootstrap Dependent Data|9.4, 9.6, 9.7|
 
 ## Gallery
 <p float="left" align="center">
